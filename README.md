@@ -13,8 +13,8 @@ chenyanxinag
 485834
 
 everyday is a good day
-<<<<<<< HEAD
 
 
 yes 
 thanks you
+yes 
