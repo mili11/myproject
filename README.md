@@ -13,8 +13,4 @@ chenyanxinag
 4858341111111111111
 485834 
  love
-<<<<<<< HEAD
-chendaxiang
-=======
-chenxiaoxiang
->>>>>>> 4a9d9222c9faf4c4de51ba6b2ab75de49bca52a9
+
