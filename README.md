@@ -15,4 +15,8 @@ chenyanxinag
  love
 dfdf
 chenyanxiang
+<<<<<<< HEAD
 chen
+=======
+my name is chen yanxiang
+>>>>>>> 0b2041e24488c4bd1f2e220dedecdad5fba07864
