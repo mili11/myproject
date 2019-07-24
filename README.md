@@ -14,5 +14,9 @@ chenyanxinag
 485834 
  love
 dfdf
+<<<<<<< HEAD
 
 heihei
+=======
+chen love you
+>>>>>>> 74888b9ac2a4f0490a06977bf55ef78acb37ccde
