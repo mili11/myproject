@@ -13,5 +13,9 @@ chenyanxinag
 485834
 
 everyday is a good day
+<<<<<<< HEAD
 
 thanks you
+=======
+yes 
+>>>>>>> 0922a122634cd4c61176ad09f9a586be4b66fbb5
